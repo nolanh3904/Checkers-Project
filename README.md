@@ -1,1 +1,1 @@
-This is a collaborative Checkers game project developed by a team of three members. The project implements a fully functional digital version of the classic Checkers board game. It includes features such as player turns, piece movement, capturing mechanics, and win conditions.
+This is a collaborative Checkers game project developed by two other team members and me. The project implements a fully functional digital version of the classic Checkers board game. It includes features such as player turns, piece movement, capturing mechanics, and win conditions.
